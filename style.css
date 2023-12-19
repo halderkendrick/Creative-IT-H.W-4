@@ -1,0 +1,268 @@
+.main_table{
+    width: 800px;
+    height: 400px;
+    background: rebeccapurple;
+}
+.one{
+    width: 800px;
+    height: 133.333px;
+    background: grey;
+}
+.two{
+    width: 800px;
+    height: 133.333px;
+    background: greenyellow;
+}
+.three{
+    width: 800px;
+    height: 133.333px;
+    background: green;
+}
+.four{
+    width: 800px;
+    height: 66.667px;
+    background: goldenrod;
+}
+.five{
+    width: 800px;
+    height: 66.667px;
+    background: gold;
+}
+.six{
+    width: 160px;
+    height: 66.667px;
+    background: burlywood;
+}
+.seven{
+    width: 640px;
+    height: 33.333px;
+    background: purple;
+    float: right;
+}
+.eight{
+    width: 640px;
+    height: 33.333px;
+    background: paleturquoise;
+    float: right;
+}
+.nine{
+    width: 420px;
+    height: 44.444px;
+    background: bisque;
+}
+.ten{
+    width: 420px;
+    height: 44.444px;
+    background: blue;
+}
+.eleven{
+    width: 420px;
+    height: 44.444px;
+    background: hotpink;
+}
+.twelve{
+    width: 210px;
+    height: 44.444px;
+    background: olive;
+}
+.thriteen{
+    width: 210px;
+    height: 44.444px;
+    background: darkblue;
+    float: right;
+}
+.fourteen{
+    width: 140px;
+    height: 44.444px;
+    background: darkcyan;
+}
+.fifteen{
+    width: 140px;
+    height: 44.444px;
+    background: darkkhaki;
+    float: right;
+}
+.sixteen{
+    width: 140px;
+    height: 44.444px;
+    background: darkmagenta;
+    float: right;
+}
+.seventeen{
+    width: 140px;
+    height: 22.222px;
+    background: darkolivegreen;
+}
+.eighteen{
+    width: 140px;
+    height: 22.222px;
+    background: darkorchid;
+}
+.nineteen{
+    width: 380px;
+    height: 133.333px;
+    background: darkred;
+    float: right;
+}
+.twenty{
+    width: 380px;
+    height: 66.667px;
+    background: darkorange;
+    float: right;
+}
+.twentyone{
+    width: 380px;
+    height: 66.667px;
+    background: darkgoldenrod;
+    float: right;
+}
+.twentytwo{
+    width: 190px;
+    height: 66.667px;
+    background: darkgray;
+}
+.twentythree{
+    width: 190px;
+    height: 66.667px;
+    background: slateblue;
+    float: right;
+}
+.twentyfour{
+    width: 190px;
+    height: 33.333px;
+    background: seagreen;
+}
+.twentyfive{
+    width: 190px;
+    height: 33.333px;
+    background: sandybrown;
+}
+.twentysix{
+    width: 210px;
+    height: 66.667px;
+    background: cornflowerblue;
+}
+.twentyseven{
+    width: 170px;
+    height: 66.667px;
+    background: coral;
+    float: right;
+}
+.twentyeight{
+    width: 210px;
+    height: 22.222px;
+    background: burlywood;
+}
+.twentynine{
+    width: 210px;
+    height: 22.222px;
+    background: bisque;
+}
+.thrity{
+    width: 210px;
+    height: 22.222px;
+    background: firebrick;
+}
+.thrityone{
+    width: 105px;
+    height: 22.222px;
+    background: fuchsia;
+}
+.thritytwo{
+    width: 105px;
+    height: 22.222px;
+    background: forestgreen;
+    float: right;
+}
+.thritythree{
+    width: 105px;
+    height: 11.111px;
+    background: violet;
+    float: left;
+}
+.thrityfour{
+    width: 105px;
+    height: 11.111px;
+    background: chocolate;
+    float: left;
+}
+.thrityfive{
+    width: 266.667px;
+    height: 133.333px;
+    background: blue;
+}
+.thritysix{
+    width: 266.667px;
+    height: 133.333px;
+    background: palegoldenrod;
+    float: right;
+}
+.thrityseven{
+    width: 266.667px;
+    height: 133.333px;
+    background: mediumvioletred;
+    float: right;
+}
+.thrityeight{
+    width: 266.667px;
+    height: 66.667px;
+    background: khaki;
+}
+.thritynine{
+    width: 266.667px;
+    height: 66.667px;
+    background: yellowgreen;
+}
+.forty{
+    width: 133.333px;
+    height: 66.667px;
+    background: aqua;
+}
+.fortyone{
+    width: 133.333px;
+    height: 66.667px;
+    background: lightcoral;
+    float: right;
+}
+.fortytwo{
+    width: 266.667px;
+    height: 33.333px;
+    background: orchid;
+}
+.fortythree{
+    width: 266.667px;
+    height: 100px;
+    background: orangered;
+}
+.fortyfour{
+    width: 133.333px;
+    height: 100px;
+    background: turquoise;
+}
+.fortyfive{
+    width: 133.333px;
+    height: 100px;
+    background: indianred;
+    float: right;
+}
+.fortysix{
+    width: 133.333px;
+    height: 50px;
+    background: palegreen;
+}
+.fortyseven{
+    width: 133.333px;
+    height: 50px;
+    background: mediumslateblue;
+}
+.fortyeight{
+    width: 66.667px;
+    height: 50px;
+    background: lightblue;
+}
+.fortynine{
+    width: 66.667px;
+    height: 50px;
+    background: paleturquoise;
+    float: right;
+}
